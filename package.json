@@ -1,0 +1,22 @@
+{
+  "name": "bit2c-bitcoin-ticker",
+  "version": "1.0.0",
+  "description": "Bitcoin ticker from Bit2C Israeli exchange.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macdasi/bit2c-bitcoin-ticker.git"
+  },
+  "author": "Haddar Macdasi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/macdasi/bit2c-bitcoin-ticker.git/issues"
+  },
+  "homepage": "https://github.com/macdasi/bit2c-bitcoin-ticker.git#readme",
+  "dependencies": {
+    "request-json": "0.6.1"
+  }
+}
